@@ -1,0 +1,1 @@
+// kolejna funkcja 2 
